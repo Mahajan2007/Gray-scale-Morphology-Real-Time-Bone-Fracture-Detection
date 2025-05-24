@@ -2,8 +2,8 @@
 # Aim:
 To represent the bone fracture detection using Gray Scale Morphology.
 
-## DEVELOPED BY: KATHIRESH M
-## REGISTER NUMBER : 212224240073
+## DEVELOPED BY: MAHAJANANI R
+## REGISTER NUMBER : 212224230147
 # CODE:
 ```
 import cv2
